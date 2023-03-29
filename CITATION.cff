@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mangalathu Raj"
+  given-names: "Samuel"
+  orcid: "https://orcid.org/0000-0002-9338-7587"
+- family-names: "Enshaei"
+  given-names: "Hossein"
+  orcid: "https://orcid.org/0000-0002-5649-7015"
+- family-names: "Abdussamie"
+  given-names: "Nagi"
+  orcid: "https://orcid.org/0000-0002-8628-562X"
+title: "Wave scatter table development algorithm"
+version: 1.0
+date-released: 2023-03-28
+url: "https://github.com/SamuelMangalathu/wave_scatter_table-development_algorithm"
